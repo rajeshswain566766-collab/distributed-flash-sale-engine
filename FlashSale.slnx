@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FlashSale.Api/FlashSale.Api.csproj" />
+    <Project Path="src/FlashSale.Core/FlashSale.Core.csproj" />
+    <Project Path="src/FlashSale.Infrastructure/FlashSale.Infrastructure.csproj" />
+  </Folder>
+</Solution>
